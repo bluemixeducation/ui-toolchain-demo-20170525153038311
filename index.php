@@ -102,7 +102,7 @@ function orderItem(itemID){
 	<a href="./autoLoadTest.html">Catalog Load Tester</a>
 	
 	<!-- Add large images, uncomment the next img lines to create a response time alarm in BAM -->
-	
+	<!--
 	<img id="berlin" src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops">
 	<img id="berlin2" src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="25%" width="25%" alt="Oops">
 	<img id="ubeck" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/%D0%9E%D0%B3%D0%BE%D0%BD%D0%B5%D0%BA_1917-32.pdf/page1-1285px-%D0%9E%D0%B3%D0%BE%D0%BD%D0%B5%D0%BA_1917-32.pdf.jpg" height="25%" width="25%" alt="Oops">
@@ -111,7 +111,7 @@ function orderItem(itemID){
 	<img id="portugal" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Praia_da_Rocha-Portimao_%28Portugal%29_%2833512845665%29.jpg" height="25%" width="25%" alt="Oops">
         
       <!-- Add large images, uncomment the previous img lines to create a response time alarm in BAM -->	
-	 
+	 -->
 	<p>My favorite color is blue</p>
 
 	
